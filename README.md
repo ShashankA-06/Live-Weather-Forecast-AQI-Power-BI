@@ -21,4 +21,5 @@ An interactive Power BI dashboard that shows live weather, forecast and air qual
 4. Click Refresh.
 
 ## Screenshots
-(Dashboard screenshots will be added here)
+<img width="1300" height="723" alt="image" src="https://github.com/user-attachments/assets/f7f22cdc-535d-4086-91b5-a45bebc168f3" />
+
